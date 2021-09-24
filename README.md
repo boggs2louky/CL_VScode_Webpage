@@ -60,7 +60,7 @@ to do something on the site.
 contents of some or all of the array on your page
 
 ● Create a Javascript loop that dynamically displays HTML on your page - for example
-displaying a number of list items <li> based on how many times you loop
+displaying a number of list items "<li>" based on how many times you loop
 
 ● Create at least 3 variables (var, const, or let), set their values in JavaScript, and display
 the values somewhere on your page
